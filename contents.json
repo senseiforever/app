@@ -75,53 +75,53 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [
+       "stickers": [
         {
-          "image_file": "l11.webp",
+          "image_file": "l1.webp",
           "emojis": []
         },
         {
-          "image_file": "l12.webp",
+          "image_file": "l2.webp",
           "emojis": []
         },
         {
-          "image_file": "l13.webp",
+          "image_file": "l3.webp",
           "emojis": []
         },
         {
-          "image_file": "l14.webp",
+          "image_file": "l4.webp",
           "emojis": []
         },
         {
-          "image_file": "l15.webp",
+          "image_file": "l5.webp",
           "emojis": []
         },
         {
-          "image_file": "l16.webp",
+          "image_file": "l6.webp",
           "emojis": []
         },
         {
-          "image_file": "l17.webp",
+          "image_file": "l7.webp",
           "emojis": []
         },
         {
-          "image_file": "l18.webp",
+          "image_file": "l8.webp",
           "emojis": []
         },
         {
-          "image_file": "l19.webp",
+          "image_file": "l9.webp",
           "emojis": []
         },
         {
-          "image_file": "l20.webp",
+          "image_file": "l10.webp",
           "emojis": []
         },
         {
-          "image_file": "3.webp",
+          "image_file": "1.webp",
           "emojis": []
         },
         {
-          "image_file": "4.webp",
+          "image_file": "2.webp",
           "emojis": []
         }
       ]
