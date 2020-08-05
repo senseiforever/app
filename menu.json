@@ -1,15 +1,58 @@
 {
-  "new_items": [
-    "memes", "ligar"],
-  
-  "items": [
-    {
-      "name":"meme",
-      "google_play_id":"com.sensei.memes"
-    },{
-       "name":"ligar",
-      "google_play_id":"com.sensei.ligar"
-    }
-    
-    ]
+	"new_items": [
+		"Stickers para ligar", "Stickers Escobar"
+	],
+
+	"items": [{
+			"appName": "Stickers para ligar",
+			"google_play_id": "com.sensei.ligar",
+			"url_icon": "",
+			"id": 1,
+			"order": 1
+
+		}, {
+			"appName": "Stickers Escobar",
+			"google_play_id": "com.sensei.escobar",
+			"url_icon": "",
+			"id": 2,
+			"order": 2
+		}, {
+			"appName": "Food Stickers",
+			"google_play_id": "com.sensei.food",
+			"url_icon": "",
+			"id": 3,
+			"order": 3
+		}, {
+			"appName": "Stickers Colombia",
+			"google_play_id": "com.sensei.colombia",
+			"url_icon": "",
+			"id": 4,
+			"order": 4
+		}, {
+			"appName": "Stickers de Frases",
+			"google_play_id": "com.sensei.frases",
+			"url_icon": "",
+			"id": 5,
+			"order": 5
+		}, {
+			"appName": "Stickers España",
+			"google_play_id": "com.sensei.spain",
+			"url_icon": "",
+			"id": 6,
+			"order": 6
+		}, {
+			"appName": "Extreme Sports Stickers",
+			"google_play_id": "com.sensei.xgames",
+			"url_icon": "",
+			"id": 7,
+			"order": 7
+		}, {
+			"appName": "Flirt Stickers",
+			"google_play_id": "com.sensei.flirt",
+			"url_icon": "",
+			"id": 8,
+			"order": 8
+		}
+
+	]
 }
