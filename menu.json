@@ -11,7 +11,7 @@
 			"order": 10,
 			"active": true,
 			"show_banner": false,
-			"banner_image": "destacada_love.png",
+			"banner_image": "destacada_love.jpg",
 			"bannners_to_show": []
 
 		}, {
@@ -72,7 +72,7 @@
 			"order": 70,
 			"active": true,
 			"show_banner": false,
-			"banner_image": "destacada_memes.png",
+			"banner_image": "destacada_memes.jpg",
 			"bannners_to_show": []
 		}, {
 			"app_name": "Flirt Stickers",
@@ -92,7 +92,7 @@
 			"order": 1,
 			"active": true,
 			"show_banner": false,
-			"banner_image": "banner_memes.png",
+			"banner_image": "banner_memes.jpg",
 			"bannners_to_show": []
 		}, {
 			"app_name": "Stickers Prueba",
