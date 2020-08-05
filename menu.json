@@ -1,0 +1,15 @@
+{
+  "new_items": [
+    "memes", "ligar"],
+  
+  "items": [
+    {
+      "name":"meme",
+      "google_play_id":"com.sensei.memes"
+    },{
+       "name":"ligar",
+      "google_play_id":"com.sensei.ligar"
+    }
+    
+    ]
+}
