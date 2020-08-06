@@ -83,7 +83,7 @@
 		"active": true,
 		"show_banner": false,
 		"banner_image": "",
-		"bannners_to_show": []
+		"bannners_to_show": [9,1]
 	}, {
 		"app_name": "New Memes 2019 stickers",
 		"google_play_id": "com.sensei.memes",
