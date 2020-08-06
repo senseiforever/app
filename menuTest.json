@@ -94,5 +94,15 @@
 		"show_banner": false,
 		"banner_image": "banner_memes.jpg",
 		"bannners_to_show": []
+	}, {
+		"app_name": "Stickers Prueba",
+		"google_play_id": "com.example.prueba",
+		"url_icon": "ic_ligar.png",
+		"id": 10,
+		"order": 0,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": [9, 7, 1]
 	}]
 }
