@@ -1,0 +1,64 @@
+{
+  "covers": [
+    {
+      "id": 1,
+      "name": "simpson",
+      "cover": "pack1.png",
+      "packs": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Futurama",
+      "cover": "pack2.png",
+      "packs": [
+        "3",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bob esponja",
+      "cover": "pack3.png",
+      "packs": [
+        "6",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bob esponja",
+      "cover": "pack4.png",
+      "packs": [
+        "6",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bob esponja",
+      "cover": "pack5.png",
+      "packs": [
+        "6",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bob esponja",
+      "cover": "pack6.png",
+      "packs": [
+        "6",
+        "7",
+        "9"
+      ]
+    }
+  ]
+}
