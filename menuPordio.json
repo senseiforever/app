@@ -1,15 +1,15 @@
 {
 	"interstitial_enable":true,
-	"new_items": ["Stickers pésimos para WhatsApp"],
+	"new_items": [],
 	"items": [{
 		"app_name": "Memes frases Stickers",
-		"google_play_id": "com.sensei.ligar",
+		"google_play_id": "com.pordio.memes",
 		"url_icon": "ic_memes.png",
 		"id": 1,
 		"order": 10,
 		"active": true,
 		"show_banner": false,
-		"banner_image": "banner_memesanimated2020stickers.jpg",
+		"banner_image": "",
 		"bannners_to_show": []
 
 	},{
@@ -32,7 +32,7 @@
 		"active": true,
 		"show_banner": true,
 		"banner_image": "",
-		"bannners_to_show": [1,5]
+		"bannners_to_show": []
 	}, {
 		"app_name": "Stickers pésimos para WhatsApp",
 		"google_play_id": "ic_pesimo",
@@ -51,7 +51,7 @@
 		"order": 50,
 		"active": true,
 		"show_banner": false,
-		"banner_image": "banner_loveanimated2020.jpg",
+		"banner_image": "",
 		"bannners_to_show": []
 	}]
 }
