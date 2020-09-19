@@ -1,5 +1,5 @@
 {
-	"interstitial_enable":false,
+	"interstitial_enable":true,
 	"new_items": [],
 	"items": [{
 		"app_name": "Memes frases Stickers",
