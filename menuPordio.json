@@ -30,7 +30,7 @@
 		"id": 3,
 		"order": 30,
 		"active": true,
-		"show_banner": false,
+		"show_banner": true,
 		"banner_image": "",
 		"bannners_to_show": [1,5]
 	}, {
