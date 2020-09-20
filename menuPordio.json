@@ -11,7 +11,7 @@
 		"show_banner": false,
 		"banner_image": "",
 		"bannners_to_show": [],
-		"interstitial_enable":true
+		"interstitial_enable":false
 
 	},{
 		"app_name": "Music Stickers",
@@ -23,7 +23,7 @@
 		"show_banner": false,
 		"banner_image": "",
 		"bannners_to_show": [],
-		"interstitial_enable":true
+		"interstitial_enable":false
 
 	}, {
 		"app_name": "Stickers de Boca Juniors",
