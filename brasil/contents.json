@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Brazil 1",
+      "name": "Brasil 1",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -92,7 +92,7 @@
     },
     {
       "identifier": "2",
-      "name": "Brazil 2",
+      "name": "Brasil 2",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -180,7 +180,7 @@
     },
     {
       "identifier": "3",
-      "name": "Brazil 3",
+      "name": "Brasil 3",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -286,7 +286,7 @@
     },
     {
       "identifier": "4",
-      "name": "Brazil 4",
+      "name": "Brasil 4",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -498,7 +498,7 @@
     },
     {
       "identifier": "6",
-      "name": "Brazil 6",
+      "name": "Brasil 6",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
