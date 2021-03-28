@@ -35,12 +35,6 @@
           ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
           "image_file": "5.webp",
           "emojis": [
             "☕"
@@ -142,12 +136,6 @@
         },
         {
           "image_file": "3.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "4.webp",
           "emojis": [
             "☕"
           ]
@@ -425,12 +413,6 @@
           ]
         },
         {
-          "image_file": "13.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
           "image_file": "14.webp",
           "emojis": [
             "☕"
@@ -676,3 +658,4 @@
     }
   ]
 }
+
