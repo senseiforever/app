@@ -2,42 +2,42 @@
   "covers": [
     {
       "id": 1,
-      "name": "simpson",
+      "name": "Simpson",
       "cover": "pack1.png",
       "packs": [
         "1",
         "2",
-        "4"
+        "3",
+        "4",
+        "5",
+        "6"
       ]
     },
     {
       "id": 2,
-      "name": "Futurama",
+      "name": "Bob Esponja",
       "cover": "pack2.png",
       "packs": [
-        "3",
-        "5",
-        "7"
+        "7",
+        "8"
       ]
     },
     {
       "id": 3,
-      "name": "Bob esponja",
+      "name": "Gumball",
       "cover": "pack3.png",
       "packs": [
-        "6",
-        "7",
-        "9"
+        "9",
+        "10"
       ]
     },
     {
       "id": 4,
-      "name": "Bob esponja",
+      "name": "Adventure Time",
       "cover": "pack4.png",
       "packs": [
-        "6",
-        "7",
-        "9"
+        "11",
+        "12"
       ]
     },
     {
