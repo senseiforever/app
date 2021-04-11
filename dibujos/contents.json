@@ -117,7 +117,7 @@
     {
       "identifier": "2",
       "name": "Los Simpson 2",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -229,7 +229,7 @@
     {
       "identifier": "3",
       "name": "Los Simpson 3",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -341,7 +341,7 @@
     {
       "identifier": "4",
       "name": "Los Simpson 4",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -447,7 +447,7 @@
     {
       "identifier": "5",
       "name": "Los Simpson 5",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -559,7 +559,7 @@
     {
       "identifier": "6",
       "name": "Los Simpson 6",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -671,7 +671,7 @@
     {
       "identifier": "7",
       "name": "Bob Esponja 1",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -783,7 +783,7 @@
     {
       "identifier": "8",
       "name": "Bob Esponja 2",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -919,7 +919,7 @@
     {
       "identifier": "9",
       "name": "Gumball 1",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -1030,8 +1030,8 @@
     },
     {
       "identifier": "10",
-      "name": "Gumball 6",
-      "publisher": "Sensei",
+      "name": "Gumball 2",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -1143,7 +1143,7 @@
     {
       "identifier": "11",
       "name": "Adventure Time 1",
-      "publisher": "Sensei",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -1254,8 +1254,8 @@
     },
     {
       "identifier": "12",
-      "name": "Adventure Time 12",
-      "publisher": "Sensei",
+      "name": "Adventure Time 2",
+      "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
