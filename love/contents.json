@@ -7,62 +7,86 @@
       "name": "Love 1",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-	  "total_size":1700000,
-	  "animated_sticker_pack": true,
+      "total_size": 1700000,
+      "animated_sticker_pack": true,
       "stickers": [
         {
           "image_file": "l1.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l2.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l3.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l4.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l5.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l6.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l7.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l8.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l9.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l10.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "1.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "2.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         }
       ]
     },
@@ -71,62 +95,86 @@
       "name": "Love 2",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-	  "total_size":1400000,
-	  "animated_sticker_pack": true,
+      "total_size": 1400000,
+      "animated_sticker_pack": true,
       "stickers": [
         {
           "image_file": "l11.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l12.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l13.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l14.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l15.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l16.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l17.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l18.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l19.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l20.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "3.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "4.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         }
       ]
     },
@@ -135,62 +183,86 @@
       "name": "Love 3",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-	  "total_size":1400000,
-	  "animated_sticker_pack": true,
+      "total_size": 1400000,
+      "animated_sticker_pack": true,
       "stickers": [
         {
           "image_file": "l21.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l22.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l23.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l24.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l25.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l26.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l27.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l28.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l29.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l30.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "5.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "6.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         }
       ]
     },
@@ -199,58 +271,80 @@
       "name": "Love 4",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-	  "total_size":1400000,
-	  "animated_sticker_pack": true,
+      "total_size": 1400000,
+      "animated_sticker_pack": true,
       "stickers": [
         {
           "image_file": "l31.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l32.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l33.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l34.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l35.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l37.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l38.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l39.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "l40.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "7.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "8.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         }
       ]
     },
@@ -259,58 +353,156 @@
       "name": "Love 5",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-	  "total_size":2400000,
-	  "animated_sticker_pack": true,
+      "total_size": 2400000,
+      "animated_sticker_pack": true,
       "stickers": [
         {
           "image_file": "14.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "15.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "16.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "17.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "18.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "19.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "20.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "21.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "22.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "23.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
         },
         {
           "image_file": "24.webp",
-          "emojis": ["☕"]
+          "emojis": [
+            "☕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Love 6",
+      "publisher": "Sensei",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "total_size": 1700000,
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕"
+          ]
         }
       ]
     }
