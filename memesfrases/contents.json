@@ -605,60 +605,12 @@
           "emojis": [
             "☕"
           ]
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": [
-            "☕"
-          ]
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": [
-            "☕"
-          ]
         }
       ]
     },
     {
-      "identifier": "6",
-      "name": "MemesFrases pack 6",
+      "identifier": "7",
+      "name": "MemesFrases pack 7",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
