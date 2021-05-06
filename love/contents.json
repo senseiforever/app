@@ -581,6 +581,88 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "8",
+      "name": "Love 8",
+      "publisher": "Sensei",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "total_size": 2200000,
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "☕"
+          ]
+        }
+      ]
     }
   ]
 }
