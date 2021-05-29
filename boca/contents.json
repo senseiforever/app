@@ -2,846 +2,23 @@
   "android_play_store_link": "",
   "ios_app_store_link": "",
   "menu": false,
-  "sticker_packs": [{
-    "identifier": "58",
-    "name": "Boca 3-0 Strongest",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "16.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "17.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "18.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "19.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "20.webp",
-        "emojis": []
-      }
-    ]
-  },{
-    "identifier": "57",
-    "name": "Cargadas RiBer 2020",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      }
-    ]
-  }, {
-    "identifier": "56",
-    "name": "Boca 1-1 RiBer",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "15.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "16.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "17.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "18.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "19.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "20.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "21.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "22.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "23.webp",
-        "emojis": []
-      }
-    ]
-  }, {
-    "identifier": "55",
-    "name": "Boca 2-0 Santos",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      }
-    ]
-  }, {
-    "identifier": "54",
-    "name": "Huracán 0-2 Boca",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "15.webp",
-        "emojis": []
-      }
-    ]
-  },  {
-    "identifier": "53",
-    "name": "Strongest 0-1 Boca",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      }
-    ]
-  },  {
-    "identifier": "52",
-    "name": "Boca 3-1 Atlético Tucumán",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "15.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "16.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "17.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "18.webp",
-        "emojis": []
-      }
-    ]
-  },   {
-    "identifier": "51",
-    "name": "Boca 2-1 Defensa y Justicia",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      }
-    ]
-  },  {
-    "identifier": "50",
-    "name": "Boca 3-0 Defensores",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "15.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "15.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "16.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "17.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "18.webp",
-        "emojis": []
-      }
-    ]
-  },   {
-    "identifier": "49",
-    "name": "Vélez 1-7 Boca Juniors",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "14.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "15.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "15.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "16.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "17.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "18.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "19.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "20.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "21.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "22.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "23.webp",
-        "emojis": []
-      }
-    ]
-  },   {
-    "identifier": "48",
-    "name": "Boca 2-1 Claypole",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [{
-      "image_file": "1.webp",
-      "emojis": []
-    },
-      {
-        "image_file": "2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "7.webp",
-        "emojis": []
-      },        {
-        "image_file": "8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "12.webp",
-        "emojis": []
-      }
-    ]
-  },
+  "sticker_packs": [
     {
-      "identifier": "47",
-      "name": "Newells 0 - 1 Boca 2021",
+      "identifier": "59",
+      "name": "Previa Boca - Racing 2021",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -865,7 +42,936 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "58",
+      "name": "Boca 3-0 Strongest",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "57",
+      "name": "Cargadas RiBer 2020",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "56",
+      "name": "Boca 1-1 RiBer",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "55",
+      "name": "Boca 2-0 Santos",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "54",
+      "name": "Huracán 0-2 Boca",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "53",
+      "name": "Strongest 0-1 Boca",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "52",
+      "name": "Boca 3-1 Atlético Tucumán",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "51",
+      "name": "Boca 2-1 Defensa y Justicia",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "50",
+      "name": "Boca 3-0 Defensores",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "49",
+      "name": "Vélez 1-7 Boca Juniors",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "48",
+      "name": "Boca 2-1 Claypole",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "47",
+      "name": "Newells 0 - 1 Boca 2021",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -924,16 +1030,17 @@
       "name": "Boca Campeón",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -957,7 +1064,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1052,16 +1160,17 @@
       "name": "Independiente 1 - 2 Boca",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -1085,7 +1194,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1110,21 +1220,23 @@
           "emojis": []
         }
       ]
-    }, {
+    },
+    {
       "identifier": "43",
       "name": "Hasta siempre",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -1148,7 +1260,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1233,21 +1346,23 @@
           "emojis": []
         }
       ]
-    },{
+    },
+    {
       "identifier": "44",
       "name": "Boca 2 - 0 Newell’s",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -1271,7 +1386,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1292,21 +1408,23 @@
           "emojis": []
         }
       ]
-    },{
+    },
+    {
       "identifier": "42",
       "name": "Newell’s 0 - 2 Boca",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -1330,7 +1448,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1355,21 +1474,23 @@
           "emojis": []
         }
       ]
-    },{
+    },
+    {
       "identifier": "41",
       "name": "Lanús 1 - 2 Boca",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -1393,7 +1514,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1428,16 +1550,17 @@
       "name": "Boca 3 - 0 Caracas",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -1461,7 +1584,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1484,16 +1608,17 @@
       "name": "Libertad 0 - 2 Boca",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -1517,7 +1642,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
@@ -1538,134 +1664,137 @@
           "emojis": []
         }
       ]
-    },{
-    "identifier": "18",
-    "name": "Plantel 19/20",
-    "publisher": "Pordio",
-    "tray_image_file": "logo.png",
-    "image_data_version":"1",
-    "avoid_cache":false,
-    "publisher_email": "",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [
-      {
-      "image_file": "J1.webp",
-      "emojis": []
     },
-      {
-        "image_file": "J2.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J3.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J4.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J5.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J6.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J7.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J8.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J9.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J10.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J11.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J12.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J13.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J14.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J15.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J17.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J18.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J19.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J20.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J21.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J22.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J23.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J25.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J26.webp",
-        "emojis": []
-      },
-      {
-        "image_file": "J27.webp",
-        "emojis": []
-      }
-    ]},
+    {
+      "identifier": "18",
+      "name": "Plantel 19/20",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "J1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "J27.webp",
+          "emojis": []
+        }
+      ]
+    },
     {
       "identifier": "2",
       "name": "Vos sos de la B",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "b1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "b1.webp",
+          "emojis": []
+        },
         {
           "image_file": "b2.webp",
           "emojis": []
@@ -1713,16 +1842,17 @@
       "name": "Vos sos de la B 2",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "B1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "B1.webp",
+          "emojis": []
+        },
         {
           "image_file": "B2.webp",
           "emojis": []
@@ -1830,16 +1960,17 @@
       "name": "Gastadas",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "G1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "G1.webp",
+          "emojis": []
+        },
         {
           "image_file": "G2.webp",
           "emojis": []
@@ -1895,16 +2026,17 @@
       "name": "Canciones hinchada",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "H1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "H1.webp",
+          "emojis": []
+        },
         {
           "image_file": "H2.webp",
           "emojis": []
@@ -1952,16 +2084,17 @@
       "name": "Aniversario 114",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "d1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "d1.webp",
+          "emojis": []
+        },
         {
           "image_file": "d2.webp",
           "emojis": []
@@ -2045,16 +2178,17 @@
       "name": "Bombonera",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "B1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "B1.webp",
+          "emojis": []
+        },
         {
           "image_file": "B2.webp",
           "emojis": []
@@ -2098,16 +2232,17 @@
       "name": "Intercontinental 2000",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "I1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "I1.webp",
+          "emojis": []
+        },
         {
           "image_file": "I2.webp",
           "emojis": []
@@ -2199,16 +2334,17 @@
       "name": "Jugadores actuales 1",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "J1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "J1.webp",
+          "emojis": []
+        },
         {
           "image_file": "J2.webp",
           "emojis": []
@@ -2288,16 +2424,17 @@
       "name": "Riquelme",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "R1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "R1.webp",
+          "emojis": []
+        },
         {
           "image_file": "R2.webp",
           "emojis": []
@@ -2325,7 +2462,8 @@
         {
           "image_file": "R8.webp",
           "emojis": []
-        }, {
+        },
+        {
           "image_file": "r9.webp",
           "emojis": []
         },
@@ -2376,16 +2514,17 @@
       "name": "Palermo",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "P1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "P1.webp",
+          "emojis": []
+        },
         {
           "image_file": "P2.webp",
           "emojis": []
@@ -2401,7 +2540,8 @@
         {
           "image_file": "P5.webp",
           "emojis": []
-        }, {
+        },
+        {
           "image_file": "m1.webp",
           "emojis": []
         },
@@ -2420,7 +2560,8 @@
         {
           "image_file": "m5.webp",
           "emojis": []
-        }, {
+        },
+        {
           "image_file": "m6.webp",
           "emojis": []
         },
@@ -2451,16 +2592,17 @@
       "name": "Maradona",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "M1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "M1.webp",
+          "emojis": []
+        },
         {
           "image_file": "M2.webp",
           "emojis": []
@@ -2484,7 +2626,8 @@
         {
           "image_file": "M7.webp",
           "emojis": []
-        }, {
+        },
+        {
           "image_file": "d1.webp",
           "emojis": []
         },
@@ -2531,16 +2674,17 @@
       "name": "Bianchi",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "b1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "b1.webp",
+          "emojis": []
+        },
         {
           "image_file": "b2.webp",
           "emojis": []
@@ -2580,16 +2724,17 @@
       "name": "Tevez",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "T1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "T1.webp",
+          "emojis": []
+        },
         {
           "image_file": "T2.webp",
           "emojis": []
@@ -2625,7 +2770,8 @@
         {
           "image_file": "T10.webp",
           "emojis": []
-        }, {
+        },
+        {
           "image_file": "T11.webp",
           "emojis": []
         },
@@ -2684,16 +2830,17 @@
       "name": "Jugadores",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "b1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "b1.webp",
+          "emojis": []
+        },
         {
           "image_file": "b2.webp",
           "emojis": []
@@ -2789,16 +2936,17 @@
       "name": "Camisetas",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "c1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "c1.webp",
+          "emojis": []
+        },
         {
           "image_file": "c2.webp",
           "emojis": []
@@ -2866,16 +3014,17 @@
       "name": "Fecha 12",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -2943,16 +3092,17 @@
       "name": "Fecha 14",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3020,16 +3170,17 @@
       "name": "Riber",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3137,16 +3288,17 @@
       "name": "RIBER vs FLAMENGO",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3242,16 +3394,17 @@
       "name": "Navidad",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3330,17 +3483,18 @@
       "identifier": "28",
       "name": "Boca 2 - 0 Universitario 2020",
       "publisher": "Pordio",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "tray_image_file": "logo.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3392,16 +3546,17 @@
       "name": "Boca 3 - 1 Panaraense 2020",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3453,16 +3608,17 @@
       "name": "Boca 2 - 0 Atlético Tucumán",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3518,16 +3674,17 @@
       "name": "Boca 4 - 0 Central Córdoba",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3583,16 +3740,17 @@
       "name": "Boca 3 - 0 Godoy Cruz",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3648,16 +3806,17 @@
       "name": "Cargadas Riber 2020",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "a1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "a1.webp",
+          "emojis": []
+        },
         {
           "image_file": "a2.webp",
           "emojis": []
@@ -3733,16 +3892,17 @@
       "name": "Boca campeón 2020",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "c1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "c1.webp",
+          "emojis": []
+        },
         {
           "image_file": "c2.webp",
           "emojis": []
@@ -3766,7 +3926,8 @@
         {
           "image_file": "c7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "c8.webp",
           "emojis": []
         },
@@ -3821,16 +3982,17 @@
       "name": "Boca 3 - 0 Medellín",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "a1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "a1.webp",
+          "emojis": []
+        },
         {
           "image_file": "a2.webp",
           "emojis": []
@@ -3898,16 +4060,17 @@
       "name": "Ataúd",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -3951,16 +4114,17 @@
       "name": "El más grande",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -4040,16 +4204,17 @@
       "name": "Anibersario Riber 26/6/2011",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
+      "image_data_version": "1",
+      "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "1.webp",
-        "emojis": []
-      },
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
         {
           "image_file": "2.webp",
           "emojis": []
@@ -4073,7 +4238,8 @@
         {
           "image_file": "7.webp",
           "emojis": []
-        },        {
+        },
+        {
           "image_file": "8.webp",
           "emojis": []
         },
