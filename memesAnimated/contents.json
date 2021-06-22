@@ -3,6 +3,112 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "14",
+      "name": "Memes pack 14",
+      "publisher": "Sensei",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "total_size": 2900000,
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "☕"
+          ]
+        }
+      ]
+    },
+    {
       "identifier": "13",
       "name": "Memes pack 13",
       "publisher": "Sensei",
