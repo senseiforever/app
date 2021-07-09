@@ -17,6 +17,30 @@
       "animated_sticker_pack": true,
       "stickers": [
         {
+          "image_file": "98.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "99.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "100.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "101.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
           "image_file": "102.webp",
           "emojis": [
             "☕"
