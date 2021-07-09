@@ -3,8 +3,8 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "15",
-      "name": "Memes pack 15",
+      "identifier": "16",
+      "name": "Memes pack 16",
       "publisher": "Sensei",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -13,95 +13,95 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "total_size": 3600000,
+      "total_size": 2600000,
       "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "77.webp",
+          "image_file": "94.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "78.webp",
+          "image_file": "95.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "79.webp",
+          "image_file": "96.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "80.webp",
+          "image_file": "97.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "81.webp",
+          "image_file": "98.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "82.webp",
+          "image_file": "99.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "83.webp",
+          "image_file": "100.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "84.webp",
+          "image_file": "101.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "85.webp",
+          "image_file": "102.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "87.webp",
+          "image_file": "104.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "88.webp",
+          "image_file": "105.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "89.webp",
+          "image_file": "106.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "90.webp",
+          "image_file": "107.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "91.webp",
+          "image_file": "108.webp",
           "emojis": [
             "☕"
           ]
         },
         {
-          "image_file": "92.webp",
+          "image_file": "109.webp",
           "emojis": [
             "☕"
           ]
