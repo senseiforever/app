@@ -1,0 +1,3654 @@
+{
+	"android_play_store_link": "",
+	"ios_app_store_link": "",
+	"sticker_packs": [{
+			"identifier": "1",
+			"name": "Berracos",
+			"publisher": "Nicolas",
+			"tray_image_file": "tray1.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "01_berracos.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "02_bien.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "03_cartonenando.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "04_conmigo.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "05_dinero.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "06_elpapalamama.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "07_enemigos.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "08_entiende.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "09_envidia.webp",
+					"emojis": ["😘", "🍪"]
+				},
+				{
+					"image_file": "10_escobar1.webp",
+					"emojis": ["🤔", "😐"]
+				}
+			]
+		},
+		{
+			"identifier": "2",
+			"name": "Escobar",
+			"publisher": "Nicolas",
+			"tray_image_file": "tray2.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "11_falta.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "12_favorcito.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "13_flores.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14_hacermal.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "15_honor.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "16_images.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "17_imperios.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "18_irresponsabilidad.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19_llorando.webp",
+					"emojis": ["😘", "🍪"]
+				},
+				{
+					"image_file": "20_marte.webp",
+					"emojis": ["🤔", "😐"]
+				}
+			]
+		},
+		{
+			"identifier": "3",
+			"name": "Plata y Plomo",
+			"publisher": "Nicolas",
+			"tray_image_file": "tray3.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "21_mundo.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "22_noticias.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "23_odians.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "24_patron.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "25_perro.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "26_plataplomo.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "27_polvo.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "28_ricos.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "29_sivanatomarmellama.webp",
+					"emojis": ["🤔", "😐"]
+				},
+				{
+					"image_file": "30_suelo.webp",
+					"emojis": ["😱", "😵"]
+				}
+			]
+		},
+		{
+			"identifier": "4",
+			"name": "Dibujos",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "e01.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "e02.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "e03.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "e04.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "e05.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "e06.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "e07.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "e08.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "e09.webp",
+					"emojis": ["🤔", "😐"]
+				},
+				{
+					"image_file": "e10.webp",
+					"emojis": ["😱", "😵"]
+				},
+				{
+					"image_file": "e11.webp",
+					"emojis": ["😱", "😵"]
+				}
+			]
+		},
+		{
+			"identifier": "5",
+			"name": "Patrón del mal",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "e1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "e2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "e3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "e4.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "e5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "e6.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "e7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "e8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "e9.webp",
+					"emojis": ["🤔", "😐"]
+				}
+			]
+		},
+		{
+			"identifier": "6",
+			"name": "Pensar como pobre",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "E1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "E2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "E3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "E4.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "E5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "E6.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "E7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "E8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "E9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "E10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "E11.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "E12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "E13.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "E14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "E15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "E16.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "E17.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "7",
+			"name": "No gaste plomo...",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "E1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "E2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "E3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "E4.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "E5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "E6.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "E7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "E8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "E9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "E10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "E11.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "E12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "E13.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "E14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "E15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "E16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "E17.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "8",
+			"name": "Escobar...",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "21.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "22.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "23.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "24.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "25.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "26.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "27.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "28.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "9",
+			"name": "Hágale!",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😩", "😰"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "10",
+			"name": "Mintiendo...",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "11",
+			"name": "Hijoee...",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "12",
+			"name": "No puede ser",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "13",
+			"name": "Excelente",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "14",
+			"name": "Hágale",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "21.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "22.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "23.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "15",
+			"name": "Culi...",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "21.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "16",
+			"name": "Navidad",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "17",
+			"name": "Deja ya Hombre",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "21.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "22.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "18",
+			"name": "Anotado",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "21.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "19",
+			"name": "La playa",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "20",
+			"name": "Que guapo...",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a20.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "21",
+			"name": "Me defraudaste",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "22",
+			"name": "Diga la verdad",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a16.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a17.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a18.webp",
+					"emojis": ["😍", "💑"]
+				}
+			]
+		},
+		{
+			"identifier": "23",
+			"name": "Cuando te agarre",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "24",
+			"name": "No molestar",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a17.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a18.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "25",
+			"name": "No puedo salir",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "26",
+			"name": "Sigo durmiendo",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "27",
+			"name": "Callese",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "21.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "28",
+			"name": "No seas malo",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "29",
+			"name": "Messirve",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "30",
+			"name": "A levantarse",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "31",
+			"name": "Te espero",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "32",
+			"name": "Insensato",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a17.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "33",
+			"name": "Muy gracioso",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "18.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "19.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "20.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "34",
+			"name": "Nooo",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "35",
+			"name": "Quedate quieto",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1a.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2a.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3a.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4a.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5a.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6a.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7a.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8a.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "9a.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10a.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11a.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12a.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13a.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14a.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15a.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16a.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "36",
+			"name": "No lo soporto",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["😍", "💑"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a1.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "37",
+			"name": "Bastante bien",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "38",
+			"name": "Pésimo comentario",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "17.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "39",
+			"name": "Retirada",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a16.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a18.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a19.webp",
+					"emojis": ["😍", "♥"]
+				},
+				{
+					"image_file": "a20.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "40",
+			"name": "Negociar",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😄", "😀"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "41",
+			"name": "Desagradable",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},
+		{
+			"identifier": "42",
+			"name": "No entiendo",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "a1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "a2.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "a9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "a10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "a11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "a14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "a15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},		{
+			"identifier": "43",
+			"name": "No lo digas",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},		{
+			"identifier": "44",
+			"name": "No me mientas",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},		{
+			"identifier": "45",
+			"name": "Llueve!!",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		},		{
+			"identifier": "46",
+			"name": "Te perdono",
+			"publisher": "Nicolas",
+			"tray_image_file": "logo.png",
+			"image_data_version": "1",
+			"avoid_cache": false,
+			"publisher_email": "sensei.mobile.dev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": ["☕", "🙂"]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": ["💔", "👎"]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": ["🤔", "😐"]
+				}, {
+					"image_file": "10.webp",
+					"emojis": ["☕", "🙂"]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": ["😆", "😂"]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": ["😭", "💧"]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": ["😍", "♥"]
+				}
+			]
+		}
+	]
+}
