@@ -3,8 +3,8 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "116",
-      "name": "Memes pack 116",
+      "identifier": "117",
+      "name": "Memes pack 117",
       "publisher": "Nicolas",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -64,13 +64,6 @@
           ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
           "image_file": "9.webp",
           "emojis": [
             "💔",
@@ -121,13 +114,6 @@
         },
         {
           "image_file": "16.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "17.webp",
           "emojis": [
             "💔",
             "👎"
