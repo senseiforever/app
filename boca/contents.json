@@ -4,8 +4,8 @@
   "menu": false,
   "sticker_packs": [
     {
-      "identifier": "75",
-      "name": "SuperC RiBer 0 - 1 Boca 2022",
+      "identifier": "76",
+      "name": "SuperC Rossi vs RiBer",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -61,58 +61,6 @@
         },
         {
           "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
           "emojis": []
         }
       ]
