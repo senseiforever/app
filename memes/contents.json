@@ -3,6 +3,188 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "52",
+      "name": "Memes 52",
+      "publisher": "Pordio",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "a1.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "a2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "a3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "a4.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "a5.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "a6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "a7.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "a8.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a9.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a10.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "a11.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "a12.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "a13.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "a14.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "a15.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a16.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a17.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a18.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a19.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a20.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a21.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a22.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a23.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "a24.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        }
+      ]
+    },
+    {
       "identifier": "1",
       "name": "Memes 1",
       "publisher": "Pordio",
