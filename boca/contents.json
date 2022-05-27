@@ -5,7 +5,7 @@
   "sticker_packs": [
     {
       "identifier": "82",
-      "name": "Campeón!!",
+      "name": "Boca 1 - 0 Deportivo Cali",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -61,38 +61,6 @@
         },
         {
           "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
           "emojis": []
         }
       ]
