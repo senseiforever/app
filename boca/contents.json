@@ -4,8 +4,8 @@
   "menu": false,
   "sticker_packs": [
     {
-      "identifier": "87",
-      "name": "Boca 3 - 1 Estudiantes",
+      "identifier": "88",
+      "name": "Boca 2 - 1 Platense",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -77,6 +77,10 @@
         },
         {
           "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
           "emojis": []
         }
       ]
