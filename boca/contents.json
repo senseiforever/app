@@ -4,8 +4,8 @@
   "menu": false,
   "sticker_packs": [
     {
-      "identifier": "88",
-      "name": "Boca 2 - 1 Platense",
+      "identifier": "89",
+      "name": "Defensa 0 - 1 Boca",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -81,6 +81,10 @@
         },
         {
           "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
           "emojis": []
         }
       ]
