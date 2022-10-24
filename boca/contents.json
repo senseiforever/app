@@ -4,8 +4,8 @@
   "menu": false,
   "sticker_packs": [
     {
-      "identifier": "95",
-      "name": "Gimnasia 1 - 2 Boca: a una fecha",
+      "identifier": "96",
+      "name": "Boca campeón 2022",
       "publisher": "Pordio",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
@@ -101,6 +101,30 @@
         },
         {
           "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
           "emojis": []
         }
       ]
